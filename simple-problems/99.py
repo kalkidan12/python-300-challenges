@@ -1,4 +1,4 @@
-#99. Write a python program to get only uppercase word from user store in a list
+#Q.99. Write a python program to get only uppercase word from user store in a list
 
 upper_list = []
 

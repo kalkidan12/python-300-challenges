@@ -1,4 +1,4 @@
-#102. Write a python program to display all student name except with start 'f' character.
+#Q.101. Write a python program to display all student name except with start 'f' character.
 
 student =  ['kalkidan', 'kalab', 'fkreab', 'daniel']
 for i in student:

@@ -1,4 +1,4 @@
-#Q.88. Write a python program to get a sentence from user , the system should  display 
+#Q.87. Write a python program to get a sentence from user , the system should  display 
 # only ten character maximum.
 
 sentence  = str(input('Enter sentence here '))
